@@ -1,5 +1,3 @@
-package SRP.GOOD;
-
 public class Book {
    
         private String title;
