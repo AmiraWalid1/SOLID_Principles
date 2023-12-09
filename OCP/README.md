@@ -1,7 +1,7 @@
 ## Open/Closed Principle
-<h3><em>
+<h4><em>
 Open for extension, but closed for modification
-</em></h3>
+</em></h4>
 
 - Any new functionality should by done by add new classes instead changing the existing one.
 
